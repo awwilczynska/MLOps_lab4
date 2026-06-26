@@ -1,2 +1,6 @@
 .venv
 .env
+
+images/metadata/
+
+.DS_Store
